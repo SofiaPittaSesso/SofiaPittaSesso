@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/sofia-pitta-sesso/"><i>Sofia Pitta</i></a> ✨</h1>
+  <h1 align="center">✨ Oi Tudo bem? Eu sou a <a href="https://www.linkedin.com/in/sofia-pitta-sesso/"><i>Sofia Pitta</i></a> ✨</h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.labenu.com.br/"><i>Labenu</i></a></p>
 </div>
 
